@@ -1,4 +1,15 @@
-/*+ Set the search range between min=(largest single value) and max=(sum of all values).
+/*
+
+Link: https://leetcode.com/problems/split-array-largest-sum/
+
+Description: Given an array nums which consists of non-negative 
+integers and an integer m, you can split the array into m 
+non-empty continuous subarrays.
+Write an algorithm to minimize the largest sum among these m 
+subarrays.
+
+
++ Set the search range between min=(largest single value) and max=(sum of all values).
     + The min starts there because we're looking for the sum of the largest group in the 
     final set of groups. 
     And no matter what groups you create, the largest value has to be in it, 
