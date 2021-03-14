@@ -9,6 +9,7 @@ Keep track of my LeetCode practice!
 * [Word Ladder](ladderLength.java): [Link](https://leetcode.com/problems/word-ladder/)
 * [Course Schedule II](findOrder.java): [Link](https://leetcode.com/problems/course-schedule-ii/)
 * [Count Complete Tree Nodes](countNodes.java) : [Link](https://leetcode.com/problems/count-complete-tree-nodes/)
+* [Longest Increasing Path in a Matrix](longestIncreasingPath.java) : [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 
 ## Dynamic Programming
