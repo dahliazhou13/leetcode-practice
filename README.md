@@ -1,5 +1,5 @@
 # Leetcode Practice
-Keep track of my LeetCode practice!
+Keeping track of my LeetCode practice!
 
 ## Linked List
 * [Copy List with Random Pointer](copyRandomList.java)
