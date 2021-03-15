@@ -10,6 +10,7 @@ Keeping track of my LeetCode practice!
 * [Course Schedule II](findOrder.java): [Link](https://leetcode.com/problems/course-schedule-ii/)
 * [Count Complete Tree Nodes](countNodes.java) : [Link](https://leetcode.com/problems/count-complete-tree-nodes/)
 * [Longest Increasing Path in a Matrix](longestIncreasingPath.java) : [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+* [Decode String](decodeString.java) : [Link](https://leetcode.com/problems/decode-string/)
 
 
 ## Dynamic Programming
