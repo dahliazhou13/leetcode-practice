@@ -12,7 +12,7 @@ Keeping track of my LeetCode practice!
 * [Longest Increasing Path in a Matrix](longestIncreasingPath.java) : [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * [Decode String](decodeString.java) : [Link](https://leetcode.com/problems/decode-string/)
 * [Evaluate Division](calcEquation.java) : [Link](https://leetcode.com/problems/evaluate-division/)
-
+* [Diameter of Binary Tree](diameterOfBinaryTree.java) : [Link](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
