@@ -13,6 +13,7 @@ Keeping track of my LeetCode practice!
 * [Decode String](decodeString.java) : [Link](https://leetcode.com/problems/decode-string/)
 * [Evaluate Division](calcEquation.java) : [Link](https://leetcode.com/problems/evaluate-division/)
 * [Diameter of Binary Tree](diameterOfBinaryTree.java) : [Link](https://leetcode.com/problems/diameter-of-binary-tree/)
+* [Cracking the Safe](CrackSafe.java) : [Link](https://leetcode.com/problems/cracking-the-safe/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
