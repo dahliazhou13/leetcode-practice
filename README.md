@@ -16,6 +16,7 @@ Keeping track of my LeetCode practice!
 * [Cracking the Safe](CrackSafe.java) : [Link](https://leetcode.com/problems/cracking-the-safe/)
 * [Robot Room Cleaner](cleanRoom.java) : [Link](https://leetcode.com/problems/robot-room-cleaner/)
 * [Flip Equivalent Binary Trees](flipEquiv.java) : [Link](https://leetcode.com/problems/flip-equivalent-binary-trees/)
+* [Most Stones Removed with Same Row or Column](removeStones.java) : [Link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
