@@ -26,6 +26,7 @@ Keeping track of my LeetCode practice!
 * [Flip Equivalent Binary Trees](flipEquiv.java) : [Link](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 * [Most Stones Removed with Same Row or Column](removeStones.java) : [Link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 * [Word Squares](wordSquares.java) : [Link](https://leetcode.com/problems/word-squares/)
+* [Same Tree](isSameTree.java) : [Link](https://leetcode.com/problems/same-tree/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
