@@ -27,6 +27,7 @@ Keeping track of my LeetCode practice!
 * [Most Stones Removed with Same Row or Column](removeStones.java) : [Link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 * [Word Squares](wordSquares.java) : [Link](https://leetcode.com/problems/word-squares/)
 * [Same Tree](isSameTree.java) : [Link](https://leetcode.com/problems/same-tree/)
+* [Implement Trie (Prefix Tree)](trie.java) : [Link](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
