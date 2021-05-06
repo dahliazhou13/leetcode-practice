@@ -8,6 +8,8 @@ Keeping track of my LeetCode practice!
 * [Squares of a Sorted Array](sortedSquares.java) : [Link](https://leetcode.com/problems/squares-of-a-sorted-array/)
 * [Product of Array Except Self](ProductExceptSelf.java) : [Link](https://leetcode.com/problems/product-of-array-except-self/)
 * [Majority Element II](majorityElement.java) : [Link](https://leetcode.com/problems/majority-element-ii/)
+* [Add Binary](addBinary.java) : [Link](https://leetcode.com/problems/add-binary/)
+* [One Edit Distance](isOneEditDistance.java) : [Link](https://leetcode.com/problems/one-edit-distance/)
 
 ## Linked List
 * [Copy List with Random Pointer](copyRandomList.java)
