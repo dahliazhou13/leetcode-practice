@@ -10,6 +10,7 @@ Keeping track of my LeetCode practice!
 * [Majority Element II](majorityElement.java) : [Link](https://leetcode.com/problems/majority-element-ii/)
 * [Add Binary](addBinary.java) : [Link](https://leetcode.com/problems/add-binary/)
 * [One Edit Distance](isOneEditDistance.java) : [Link](https://leetcode.com/problems/one-edit-distance/)
+* [Longest Substring with At Most K Distinct Characters](lengthOfLongestSubstringKDistinct.java) : [Link](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
 ## Linked List
 * [Copy List with Random Pointer](copyRandomList.java)
