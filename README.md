@@ -28,9 +28,9 @@ Keeping track of my LeetCode practice!
 * [Robot Room Cleaner](cleanRoom.java) : [Link](https://leetcode.com/problems/robot-room-cleaner/)
 * [Flip Equivalent Binary Trees](flipEquiv.java) : [Link](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 * [Most Stones Removed with Same Row or Column](removeStones.java) : [Link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
-
 * [Same Tree](isSameTree.java) : [Link](https://leetcode.com/problems/same-tree/)
 * [Implement Trie (Prefix Tree)](trie.java) : [Link](https://leetcode.com/problems/implement-trie-prefix-tree/)
+* [Binary Tree Right Side View](rightSideView.java) : [Link](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
