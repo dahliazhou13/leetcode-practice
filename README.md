@@ -31,6 +31,7 @@ Keeping track of my LeetCode practice!
 * [Same Tree](isSameTree.java) : [Link](https://leetcode.com/problems/same-tree/)
 * [Implement Trie (Prefix Tree)](trie.java) : [Link](https://leetcode.com/problems/implement-trie-prefix-tree/)
 * [Binary Tree Right Side View](rightSideView.java) : [Link](https://leetcode.com/problems/binary-tree-right-side-view/)
+* [Binary Tree Paths](binaryTreePaths.java) : [Link](https://leetcode.com/problems/binary-tree-paths/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
