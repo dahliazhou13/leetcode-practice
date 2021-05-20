@@ -40,5 +40,6 @@ Keeping track of my LeetCode practice!
 ## Recursion
 * [Word Squares](wordSquares.java) : [Link](https://leetcode.com/problems/word-squares/)
 * [Strobogrammatic Number II](findStrobogrammatic.java) : [Link](https://leetcode.com/explore/interview/card/google/62/recursion-4/399/)
+* [Remove Invalid Parentheses](removeInvalidParentheses.java) : [Link](https://leetcode.com/problems/remove-invalid-parentheses/)
     
     
