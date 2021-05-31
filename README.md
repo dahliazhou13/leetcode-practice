@@ -45,3 +45,4 @@ Keeping track of my LeetCode practice!
 
 ## Searching and Sorting
 * [Peak Index in a Mountain Array](peakIndexInMountainArray.java) : [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+* [Count of Smaller Numbers After Self](countSmaller.java) : [Link](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
