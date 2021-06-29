@@ -12,6 +12,8 @@ Keeping track of my LeetCode practice!
 * [One Edit Distance](isOneEditDistance.java) : [Link](https://leetcode.com/problems/one-edit-distance/)
 * [Longest Substring with At Most K Distinct Characters](lengthOfLongestSubstringKDistinct.java) : [Link](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 * [Integer to English Words](numberToWords.java) : [Link](https://leetcode.com/problems/integer-to-english-words/)
+* [Move Zeroes](moveZeroes.java) : [Link](https://leetcode.com/problems/move-zeroes/)
+* [Validate IP Address](validIPAddress.java) : [Link](https://leetcode.com/problems/validate-ip-address/)
 
 ## Linked List
 * [Copy List with Random Pointer](copyRandomList.java)
