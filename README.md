@@ -43,6 +43,7 @@ Keeping track of my LeetCode practice!
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
 * [Split Array Largest Sum](splitArray.java)
+* [Longest Valid Parentheses](longestValidParentheses.java) : [Link](https://leetcode.com/problems/longest-valid-parentheses/)
 
 ## Recursion
 * [Word Squares](wordSquares.java) : [Link](https://leetcode.com/problems/word-squares/)
