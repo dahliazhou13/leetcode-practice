@@ -19,6 +19,7 @@ Keeping track of my LeetCode practice!
 
 ## Linked List
 * [Copy List with Random Pointer](copyRandomList.java)
+* [Reorder List](reorderList.java): [Link](https://leetcode.com/problems/reorder-list/)
 
 ## Trees and Graphs
 * [Binary Tree Maximum Path Sum](maxPathSum.java): [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
@@ -37,6 +38,7 @@ Keeping track of my LeetCode practice!
 * [Implement Trie (Prefix Tree)](trie.java) : [Link](https://leetcode.com/problems/implement-trie-prefix-tree/)
 * [Binary Tree Right Side View](rightSideView.java) : [Link](https://leetcode.com/problems/binary-tree-right-side-view/)
 * [Binary Tree Paths](binaryTreePaths.java) : [Link](https://leetcode.com/problems/binary-tree-paths/)
+* [Flatten Binary Tree to Linked List](flatten.java) : [Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
 ## Dynamic Programming
 * [Maximum Product Subarray](maxSubarray.java)
@@ -50,3 +52,4 @@ Keeping track of my LeetCode practice!
 ## Searching and Sorting
 * [Peak Index in a Mountain Array](peakIndexInMountainArray.java) : [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 * [Count of Smaller Numbers After Self](countSmaller.java) : [Link](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+* [Divide Two Integers](divide.java) : [Link](https://leetcode.com/problems/divide-two-integers/)
